@@ -1,1 +1,1 @@
-![ASCII Art](tikito.png)
+![ASCII Art](ascii-art.png)

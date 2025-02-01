@@ -1,1 +1,1 @@
-![ASCII Art](ascii-art (1).png)
+![ASCII Art](ascii-art.png)
